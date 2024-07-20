@@ -19,9 +19,9 @@ I am a Web3 / Solidity Developer from Argentina 🇦🇷.
 Actually living in Italy 🇮🇹
 🌎 Remote working lover. 
 
-- 🔭 I’m currently working on Solidity, Smart Contracts, React & Javascript
-- 🌱 I’m currently learning about Blockchain, EVM and Web3
-- 👯 I’m looking to collaborate on blockchain projects
+- 🔭 I’m currently working on AI, Solidity, Smart Contracts, React & Javascript 
+- 🌱 I’m passionate about Blockchain, EVM, Web3 and AI Technology.
+- 👯 I’m looking to collaborate on AI & Blockchain projects
 
 <div id="badges">
 - 📫 How to reach me: 
@@ -38,6 +38,7 @@ Actually living in Italy 🇮🇹
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"  title="Tailwind" alt="Tailwind" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" title="React" alt="Python" width="40" height="40"/>     
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" **alt="SASS" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" **alt="Solidity" width="40" height="40"/>
